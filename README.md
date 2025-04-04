@@ -80,25 +80,10 @@ npm run build
 
 The production-ready files will be in the `dist/` folder.
 
-## Screenshots
-
-### Home Page
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page)
-
-### Organ Selection
-![Organ Selection](https://via.placeholder.com/800x400?text=Organ+Selection)
-
-### Organ Details
-![Organ Details](https://via.placeholder.com/800x400?text=Organ+Details)
-
 ## Future Enhancements
 
 - Add real-time scanning functionality using external APIs.
 - Include more organs and detailed health insights.
 - Integrate user authentication for personalized health tracking.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
