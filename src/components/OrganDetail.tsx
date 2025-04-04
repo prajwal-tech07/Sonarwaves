@@ -57,6 +57,14 @@ const OrganDetail = () => {
       prevention: ["Healthy diet", "Regular exercise", "Stress management", "Regular check-ups"],
       scanImage: abdomenScanImage,
       highlightArea: { top: '40%', left: '50%' }
+    },
+    heart: {
+      title: "HEART",
+      description: "The heart is a vital organ responsible for pumping blood throughout the body.",
+      symptoms: ["Chest pain", "Shortness of breath", "Fatigue", "Irregular heartbeat"],
+      prevention: ["Healthy diet", "Regular exercise", "Avoid smoking", "Manage stress"],
+      scanImage: "/src/assets/heart-scan.jpg", // Replace with your heart scan image path
+      highlightArea: { top: '50%', left: '50%' }
     }
   };
 

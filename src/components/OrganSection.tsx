@@ -36,6 +36,11 @@ const OrganSection = () => {
       title: "ABDOMEN",
       image: "/src/assets/abdomen.jpg", // Replace with your custom image path
       path: "/organ/abdomen"
+    },
+    {
+      title: "HEART", // New organ
+      image: "/src/assets/heart.jpg", // Replace with your heart image path
+      path: "/organ/heart"
     }
   ];
 
